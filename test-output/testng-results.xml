@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1846" started-at="2019-07-13T14:49:12Z" finished-at="2019-07-13T14:49:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1846" started-at="2019-07-13T14:49:12Z" finished-at="2019-07-13T14:49:14Z">
+      <class name="BDDWork.PostRequest">
+        <test-method status="PASS" signature="PostData()[pri:0, instance:BDDWork.PostRequest@604ed9f0]" name="PostData" is-config="true" duration-ms="367" started-at="2019-07-13T14:49:12Z" finished-at="2019-07-13T14:49:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostData -->
+        <test-method status="PASS" signature="testpostRequest()[pri:0, instance:BDDWork.PostRequest@604ed9f0]" name="testpostRequest" duration-ms="1454" started-at="2019-07-13T14:49:12Z" finished-at="2019-07-13T14:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostRequest -->
+      </class> <!-- BDDWork.PostRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
